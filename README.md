@@ -4,7 +4,7 @@ This application was developed with the purpose of creating a tool that will be 
 It leverages existing third party APIs to provide the user with information that may be relevant for it’s upcoming trip.
 Additionally, it utilizes the browser’s as a database to save their data; thus, avoiding the need for external data storage such as physical or cloud servers.
 
-Link to app: [Trip Assistant](https://jhumbrac.github.io/tripassistant/)
+Link to app: [Trip Assistant](https://mcortes.github.io/tripassistant/)
 
 ---
 
